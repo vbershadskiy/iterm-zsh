@@ -1,0 +1,55 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "workbench.colorCustomizations": {
+        "[Monokai]": {
+            "input.foreground": "#000000",
+            "input.border": "#7a7a7a",
+            "input.background": "#e3e3e3",
+            "input.placeholderForeground": "#7a7a7a",
+
+            "editorWidget.background":"#e3e3e3",
+            "editorWidget.foreground":"#000000",
+            "editorWidget.border":"#e3e3e3",
+
+            "icon.foreground":"#000000",
+
+            "list.inactiveSelectionBackground": "#f0f0f0",
+            "list.activeSelectionBackground": "#e3e3e3",
+            "list.activeSelectionForeground":"#000000",
+            "list.hoverBackground": "#e3e3e3",
+
+            "tab.activeBackground": "#f0f0f0",
+            "tab.inactiveBackground": "#a0a0a4",
+            "tab.activeForeground": "#000000",
+            "tab.inactiveForeground": "#000000",
+
+            "statusBar.foreground": "#000000",
+            "statusBar.background": "#f0f0f0",
+
+            "titleBar.activeBackground": "#7a7a7a",
+            "titleBar.activeForeground": "#000000",
+
+            "menu.selectionBackground": "#7a7a7a",
+            "menu.selectionForeground": "#000000",
+            "menu.background": "#e3e3e3",
+            "menu.foreground": "#000000",
+
+            "activityBar.background": "#f0f0f0",
+            "activityBar.foreground": "#5b5b5b",
+
+            "sideBar.background": "#ffffff",
+            "sideBar.foreground": "#000000",
+            "sideBarSectionHeader.background": "#e3e3e3",
+
+            "notifications.background": "#e3e3e3",
+            "notifications.foreground": "#000000",
+
+            "dropdown.background":"#f0f0f0",
+            "dropdown.foreground":"#000000",
+            "dropdown.listBackground": "#f0f0f0",
+
+            "badge.background": "#81CA91",
+            "badge.foreground": "#000000"
+        }
+    }
+}
