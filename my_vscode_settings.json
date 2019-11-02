@@ -26,10 +26,12 @@
             "statusBar.foreground": "#000000",
             "statusBar.background": "#f0f0f0",
 
-            "titleBar.activeBackground": "#7a7a7a",
+            "titleBar.activeBackground": "#e3e3e3",
             "titleBar.activeForeground": "#000000",
 
-            "menu.selectionBackground": "#7a7a7a",
+            "menubar.selectionForeground": "#000000",
+            "menubar.selectionBackground": "#c5c5c5",
+            "menu.selectionBackground": "#f0f0f0",
             "menu.selectionForeground": "#000000",
             "menu.background": "#e3e3e3",
             "menu.foreground": "#000000",
