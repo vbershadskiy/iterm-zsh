@@ -1,5 +1,6 @@
 {
     "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "vs-seti",
     "workbench.colorCustomizations": {
         "[Monokai]": {
             "input.foreground": "#000000",
@@ -14,10 +15,16 @@
             "icon.foreground":"#000000",
 
             "list.inactiveSelectionBackground": "#f0f0f0",
+            "list.inactiveSelectionForeground": "#000000",
             "list.activeSelectionBackground": "#e3e3e3",
             "list.activeSelectionForeground":"#000000",
             "list.hoverBackground": "#e3e3e3",
+            "list.hoverForeground": "#000000",
+            "list.focusBackground": "#e3e3e3",
+            "list.focusForeground": "#000000",
+            "list.highlightForeground": "#000000",
 
+            "editorGroupHeader.tabsBackground": "#7a7a7a",
             "tab.activeBackground": "#f0f0f0",
             "tab.inactiveBackground": "#a0a0a4",
             "tab.activeForeground": "#000000",
@@ -26,6 +33,8 @@
             "statusBar.foreground": "#000000",
             "statusBar.background": "#f0f0f0",
 
+            "titleBar.inactiveBackground": "#e3e3e3",
+            "titleBar.inactiveForeground": "#000000",
             "titleBar.activeBackground": "#e3e3e3",
             "titleBar.activeForeground": "#000000",
 
@@ -51,7 +60,22 @@
             "dropdown.listBackground": "#f0f0f0",
 
             "badge.background": "#81CA91",
-            "badge.foreground": "#000000"
+            "badge.foreground": "#000000",
+
+            "editorSuggestWidget.background": "#f0f0f0",
+            "editorSuggestWidget.foreground": "#000000",
+            "editorSuggestWidget.selectedBackground": "#e3e3e3",
+            "editorSuggestWidget.highlightForeground": "#000000",
+
+            "settings.textInputForeground": "#f0f0f0",
+            "settings.numberInputForeground": "#f0f0f0",
+
+            "gitDecoration.modifiedResourceForeground": "#076286",
+            "gitDecoration.untrackedResourceForeground": "#076286"
         }
-    }
+    },
+    "editor.scrollBeyondLastLine": false,
+    "explorer.openEditors.visible": 0,
+    "gitlens.currentLine.enabled": false,
+    "java.home": ""
 }
