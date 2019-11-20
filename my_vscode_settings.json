@@ -62,6 +62,8 @@
             "badge.background": "#81CA91",
             "badge.foreground": "#000000",
 
+            "editorHoverWidget.foreground": "#e3e3e3",
+
             "editorSuggestWidget.background": "#f0f0f0",
             "editorSuggestWidget.foreground": "#000000",
             "editorSuggestWidget.selectedBackground": "#e3e3e3",
