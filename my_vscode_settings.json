@@ -12,7 +12,7 @@
       "editorWidget.foreground":"#000000",
       "editorWidget.border":"#e3e3e3",
 
-      "icon.foreground":"#000000",
+      "icon.foreground":"#555555",
 
       "list.inactiveSelectionBackground": "#f0f0f0",
       "list.inactiveSelectionForeground": "#000000",
