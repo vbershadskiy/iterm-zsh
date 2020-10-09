@@ -12,7 +12,7 @@
             "editorWidget.foreground":"#000000",
             "editorWidget.border":"#e3e3e3",
 
-            "icon.foreground":"#555555",
+            "icon.foreground":"#000000",
 
             "list.inactiveSelectionBackground": "#f0f0f0",
             "list.inactiveSelectionForeground": "#000000",
@@ -64,6 +64,8 @@
 
             "editorHoverWidget.foreground": "#e3e3e3",
 
+            "editorGutter.foldingControlForeground": "#f0f0f0",
+
             "editorSuggestWidget.background": "#f0f0f0",
             "editorSuggestWidget.foreground": "#000000",
             "editorSuggestWidget.selectedBackground": "#e3e3e3",
@@ -79,8 +81,5 @@
     "editor.tabSize": 2,
     "editor.scrollBeyondLastLine": false,
     "explorer.openEditors.visible": 0,
-    "gitlens.currentLine.enabled": false,
-    "editor.showFoldingControls": "always",
-    "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 1000
+    "gitlens.currentLine.enabled": false
 }
