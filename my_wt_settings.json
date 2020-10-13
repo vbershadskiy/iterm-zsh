@@ -10,6 +10,11 @@
   "initialCols" : 150,
   "initialRows" : 20,
 
+  "showTabsInTitlebar": false,
+  "alwaysShowTabs": false,
+
+  "multiLinePasteWarning": false,
+
   "profiles": {
     "defaults": { 
       
