@@ -68,7 +68,7 @@
   "actions": [
     {"command" : "copy", "keys": "ctrl+c"},
     {"command" : "paste", "keys": "ctrl+v"},
-    {"command" : "find", "keys" : "ctrl+f"},
+    {"command" : "find", "keys" : "ctrl+shift+f"},
     {"command" : "newTab", "keys" : "ctrl+t"},
     {"command" : "closeTab", "keys" : "ctrl+q"},
 
